@@ -1,0 +1,23 @@
+npm run build
+context API
+Tree Shaking
+CSS apply
+CSS modules
+Responsive
+Redux Gobal state management(login to everone page)
+useReducer
+Router
+Tailwind Css, Bootstrap(consistency as in buttons, icons, etc), Material UI
+Webpack, Bundler
+Abstract Syntax Tree(Virtual DOM) Reconcillation, Diffin Algorithm
+Keys in React are same as Id's in HTML
+UUID in backend API
+REST, SOP etc
+useEffect
+useState
+this keyword
+Promise
+callback function
+event loop
+single threaded lang - js
+Browser API's (setTimeout, etc)
