@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <FirstName.Provider value={"Shivendra"}>
-        <LastName.Provider value={"Batham"}>
+        <LastName.Provider value={"Gupta"}>
           <ComA />
         </LastName.Provider>
       </FirstName.Provider>
